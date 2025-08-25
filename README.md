@@ -41,7 +41,7 @@ Este script: actualiza Termux, instala `wget`, `openssl-tool`, `proot`, `proot-d
 
 ### 2) Instalar code-server (dentro de Ubuntu)
 
-1. Entra a Ubuntu (si aún no lo estás):
+1. Si no se ha ingresado a Ubuntu de manera automática, hazlo manualmente:
 
 ```bash
 ubuntu
