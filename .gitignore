@@ -1,0 +1,35 @@
+# Archivos y carpetas comunes a ignorar en proyectos Bash
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.DS_Store
+*.env
+node_modules/
+__pycache__/
+.env.local
+.env.*
+# Ignorar archivos de sistema
+Thumbs.db
+Desktop.ini
+# Ignorar archivos de VS Code
+.vscode/
+.history/
+# Ignorar archivos de salida
+out/
+dist/
+build/
+# Ignorar archivos temporales
+*.~
+# Ignorar archivos de instalación
+*.deb
+*.rpm
+*.tar.gz
+*.zip
+*.7z
+*.exe
+*.msi
+# Ignorar archivos de configuración personal
+*.local
+*.secret
